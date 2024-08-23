@@ -20,8 +20,8 @@ Este projeto é um conversor de músicas do YouTube para MP3. Ele permite que os
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/lopesleo/Yt-music-converter.git
+    cd Yt-music-converter
     ```
 
 2. Instale as dependências do Composer:
