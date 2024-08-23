@@ -1,0 +1,7 @@
+{
+    "require": {
+      "google/apiclient": "^2.0",
+        "norkunas/youtube-dl-php": "^2.6",
+        "php-ffmpeg/php-ffmpeg": "^1.2"
+    }
+  }
